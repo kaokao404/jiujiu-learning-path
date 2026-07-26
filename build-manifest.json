@@ -1,0 +1,38 @@
+{
+  "builtAt": "2026-07-26T00:41:59.843Z",
+  "contentVersion": "91616f89bc9171044c04a194d90edb359530a6299dcac029f6262a8e1859a2e9",
+  "files": [
+    {
+      "path": "ai-errors.html",
+      "sha256": "a7cf2f9a3b46b1e43211f28ca31de6712c1951bb67cd21a8d06119b5ef2bac01"
+    },
+    {
+      "path": "assets/site.css",
+      "sha256": "3ee303361c2ae32159fc74d4dae34f37c348b18b0e53135eb1d4af0f18f70afe"
+    },
+    {
+      "path": "assets/site.js",
+      "sha256": "07e36d4eef625e1995708c41a7be44fe0bf73969fabd33f2956c87945df54d14"
+    },
+    {
+      "path": "capabilities.html",
+      "sha256": "dbca43e51674f958d871609c7fcb1c5e1aaff0c94f8c725bc182abd1c6ff585d"
+    },
+    {
+      "path": "index.html",
+      "sha256": "60bc220af1c40fbd0111330c9dcc84b9f7be9ea035f9d6ee419d5db0ab70837d"
+    },
+    {
+      "path": "jobs.html",
+      "sha256": "f111de2444d408633cdd6e574f12af04c293b8e534810cda81f2a278d2583e72"
+    },
+    {
+      "path": "learning.html",
+      "sha256": "33d0e6486317d875ae8663968945e2043e292ed429dca7f65732e3f6bcf09e90"
+    },
+    {
+      "path": "sources.html",
+      "sha256": "94e02e8c9f317c159c55d12ab184bdf0a0be6a087d674b661b0e60cbbae48265"
+    }
+  ]
+}
