@@ -1,10 +1,10 @@
 {
-  "builtAt": "2026-07-26T00:41:59.843Z",
-  "contentVersion": "91616f89bc9171044c04a194d90edb359530a6299dcac029f6262a8e1859a2e9",
+  "builtAt": "2026-07-27T02:31:18.812Z",
+  "contentVersion": "6763d4a9f2911bd5ce86a9e50c2a72fb998cd9da129108ffe5c8c97445d1eb6b",
   "files": [
     {
       "path": "ai-errors.html",
-      "sha256": "a7cf2f9a3b46b1e43211f28ca31de6712c1951bb67cd21a8d06119b5ef2bac01"
+      "sha256": "da6afd151d7ee3dab2dd8bb5f54b171826a3a81b55042d4fd153d6e7d32032a4"
     },
     {
       "path": "assets/site.css",
@@ -16,11 +16,11 @@
     },
     {
       "path": "capabilities.html",
-      "sha256": "dbca43e51674f958d871609c7fcb1c5e1aaff0c94f8c725bc182abd1c6ff585d"
+      "sha256": "c38b140be5a4aad56d02a90b805a6a765713834c8e27896d8d0a80749c30b81b"
     },
     {
       "path": "index.html",
-      "sha256": "60bc220af1c40fbd0111330c9dcc84b9f7be9ea035f9d6ee419d5db0ab70837d"
+      "sha256": "238d54522a8f9ba8d7d45c9424d71476d0c99813643bd153952aab1308e6c5fd"
     },
     {
       "path": "jobs.html",
@@ -28,7 +28,7 @@
     },
     {
       "path": "learning.html",
-      "sha256": "33d0e6486317d875ae8663968945e2043e292ed429dca7f65732e3f6bcf09e90"
+      "sha256": "e2778bbe1c440ec4eb194b9c6d4b2e6d81c1d227f0203c793ee1427b84762998"
     },
     {
       "path": "sources.html",
