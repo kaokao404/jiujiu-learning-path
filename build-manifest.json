@@ -1,10 +1,10 @@
 {
-  "builtAt": "2026-08-03T03:48:29.376Z",
-  "contentVersion": "404f98bd17620c0b3ebd4492f7ef2b77dfcc35e944946c671d4ee0dee4a9d3a2",
+  "builtAt": "2026-08-03T05:44:40.323Z",
+  "contentVersion": "6107c18ac0db0f08efa7a3501cf4e21444d88bbf2fe3c2548cb02cc181211d0e",
   "files": [
     {
       "path": "ai-errors.html",
-      "sha256": "486663a3d01e9735b8853ad86205aa55a81470e4622956a40317eec028242380"
+      "sha256": "22ad9ba0aa09bf1b0d370cfe008ab1f3bb7e913c80ef1f35b10dd592b24cce09"
     },
     {
       "path": "assets/site.css",
@@ -16,23 +16,23 @@
     },
     {
       "path": "capabilities.html",
-      "sha256": "171201ae7f11bfbe43a840cba3912fddf8d9421a67a40fd8dfa85bbcf93dee40"
+      "sha256": "ef7e5c0afcb845b5ef5709853e80717eb9066dc879403f027b3191823e7d6d65"
     },
     {
       "path": "index.html",
-      "sha256": "2a9afd85547a0db9b17ab40f1f9d41d1d6897eb99c1e0187b045aea86e6d08b0"
+      "sha256": "68a381760295eabc0c1705928415a79577839a99c60f5d6c9883fd65d56e7d91"
     },
     {
       "path": "jobs.html",
-      "sha256": "9d01a549779d0d077bb92ef74802a768619bfb3fe96867ed6e38487367ed7a7f"
+      "sha256": "229d207897c78d9c6f4a31e54440dd16a083239efa02bdff0b41822ea6810b92"
     },
     {
       "path": "learning.html",
-      "sha256": "ffed0fb3ed31459717bf8791a8ac7471eb0c5cccdc2ef769c8e6a83e62ea1965"
+      "sha256": "a31dee8418288f9c6f0460803ecfcc4c14108e9156b4f8845231ce2f9e89f813"
     },
     {
       "path": "sources.html",
-      "sha256": "04ce1aaad50cd57bff122de58819192313fe67a28a9af9387096d6ecd15f62ca"
+      "sha256": "8014887446fd612a47b71c42df72a6541bd9e3c53720f233d8183a161323c9c3"
     }
   ]
 }
