@@ -15,6 +15,13 @@
     toggle.setAttribute('aria-expanded', String(!isExpanded));
   });
 
+  document.addEventListener('keydown', (event) => {
+    if (event.key !== 'Escape') return;
+    if (toggle.getAttribute('aria-expanded') !== 'true') return;
+    toggle.setAttribute('aria-expanded', 'false');
+    toggle.focus();
+  });
+
   toggle.removeAttribute('hidden');
   document.documentElement.classList.add('nav-ready');
 })();
